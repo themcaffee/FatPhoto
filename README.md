@@ -10,7 +10,7 @@ Tested and working on Ubuntu Linux with Python 2.7
 # Create the new gif/pdf file
 ./fatphoto.py test.pdf --gif-source cool.gif
 # Retrieve the original file
-unzip test.pdf
+unzip test.pdf.gif
 ```
 
 __Note: You may get a warning when unzipping about junk data at the beginning of the file. This
